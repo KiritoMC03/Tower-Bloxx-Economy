@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bg
+    uniqueID: 2461060525
+    locked: 0
+  - name: PlayZone
+    uniqueID: 1479687313
+    locked: 0
+  - name: UI
+    uniqueID: 2521412615
+    locked: 0
